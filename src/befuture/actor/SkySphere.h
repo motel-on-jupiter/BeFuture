@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 The Motel On Jupiter
+ * Copyright (C) 2014 The Motel on Jupiter
  */
 #ifndef SKY_SPHERE_H_
 #define SKY_SPHERE_H_

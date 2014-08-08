@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 The Motel On Jupiter
+ * Copyright (C) 2014 The Motel on Jupiter
  */
 #ifndef SPARK_WRAP_H_
 #define SPARK_WRAP_H_

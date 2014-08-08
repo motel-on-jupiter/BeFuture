@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 The Motel On Jupiter
+ * Copyright (C) 2014 The Motel on Jupiter
  */
 #ifndef OPENGLMOUSELISTENER_H_
 #define OPENGLMOUSELISTENER_H_

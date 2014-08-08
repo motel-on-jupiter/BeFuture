@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 The Motel On Jupiter
+ * Copyright (C) 2014 The Motel on Jupiter
  */
 #ifndef GLOT_H_
 #define GLOT_H_

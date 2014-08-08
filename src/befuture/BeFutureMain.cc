@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2014 The Motel On Jupiter
+ * Copyright (C) 2014 The Motel on Jupiter
  */
 #include <cstdio>
 #include <ctime>
@@ -123,7 +123,7 @@ int BeFutureMain(int argc, char *argv[], const char *config_path) {
   glutInitWindowPosition(context.window.pos.x, context.window.pos.y);
   glutInitWindowSize(context.window.size.x, context.window.size.y);
   glutInit(&argc, argv);
-  context.window.id = glutCreateWindow("SIGNAL - The Motel On Jupiter");
+  context.window.id = glutCreateWindow("SIGNAL - The Motel on Jupiter");
   if (0 >= context.window.id) {
     LOGGER.Error("Failed to create the window (ret: %d)", context.window.id);
     return -1;
